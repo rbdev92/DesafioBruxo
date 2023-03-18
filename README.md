@@ -1,6 +1,6 @@
 # DesafioBruxo
 
-Desafio é criar uma página que exiba os dados dos personagens de Harry Potter (https://hp-api.onrender.com/api/characters) e pinte os cards com as cores das casas, os cards seriam para uma versão responsiva, mas a ideia é também haver visualização em tabela e filtragem dependendo dos grupos de dados recebidos na api.
+Desafio é criar uma página que exiba os dados dos personagens de Harry Potter (<https://hp-api.onrender.com/api/characters>) e pinte os cards com as cores das casas, os cards seriam para uma versão responsiva, mas a ideia é também haver visualização em tabela e filtragem dependendo dos grupos de dados recebidos na api.
 
 ## Instruções
 
